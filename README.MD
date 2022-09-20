@@ -14,3 +14,5 @@
 09/19/2022
 
 1. Learned how to register services with the program
+2. Learned the difference between making sync and async request
+3. Learned how to create controllers with api endpoints
