@@ -16,3 +16,11 @@
 1. Learned how to register services with the program
 2. Learned the difference between making sync and async request
 3. Learned how to create controllers with api endpoints
+
+10/07/2022
+
+1. Learned how to create TypeScript interfaces to describe shapes of objects
+2. Learned how to only update state via and API call on the first render
+3. Learned how to group React files by features and routes
+
+
