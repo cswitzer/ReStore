@@ -27,3 +27,7 @@
 
 1. Learned how to specify prop types using interfaces
 2. Learned how to pass props to nested components
+
+10/18/2022
+
+1. Learned how to refactor lengthy sections of code into their own react components for reuse
