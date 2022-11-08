@@ -31,3 +31,8 @@
 10/18/2022
 
 1. Learned how to refactor lengthy sections of code into their own react components for reuse
+
+11/07/2022
+
+1. Learned more about MUI's grid system, which is much like css flexbox and css grid
+2. Learned how to switch between lightmode and darkmode using MUI
