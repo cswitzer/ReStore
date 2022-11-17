@@ -36,3 +36,7 @@
 
 1. Learned more about MUI's grid system, which is much like css flexbox and css grid
 2. Learned how to switch between lightmode and darkmode using MUI
+
+11/17/2022
+
+1. Learned how to configure react router to swap between components
