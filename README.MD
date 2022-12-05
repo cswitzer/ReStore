@@ -40,3 +40,4 @@
 11/17/2022
 
 1. Learned how to configure react router to swap between components
+2. Learned how to actually switch between various components (using MUI's ListItem and react router's NavLink)
